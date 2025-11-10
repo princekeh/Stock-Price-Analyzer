@@ -1,4 +1,4 @@
-# MarketPulse-Analyzer
+# Stock Price Analyzer 
 
 📊 About the Project
 This is a straightforward utility built in Java to perform fundamental statistical analysis on a set of floating-point stock prices. It’s primarily focused on demonstrating core array and ArrayList manipulation techniques, providing quick insights into basic financial data. Perfect for brushing up on your array-traversal and iterative calculation skills!
